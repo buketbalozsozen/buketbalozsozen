@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Buket Bal Özsözen
 
-<!--
-**buketbalozsozen/buketbalozsozen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Aspiring Data Analyst
 
-Here are some ideas to get you started:
+Former Product Owner transitioning into Data Analytics, combining business understanding with data analysis and reporting skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Professional Background
+
+- Product Owner experience
+- Business and stakeholder communication
+- Requirements and process understanding
+- Transitioning into Data Analytics and Business Intelligence
+
+### Skills
+
+- Microsoft Excel
+- SQL
+- Power BI
+- Data Cleaning
+- Data Analysis
+- Business Analysis
+
+### Featured Project
+
+#### Northstar Sales Analysis
+
+A simulated retail analytics project covering:
+
+- Data cleaning and validation
+- Sales and profitability analysis
+- Customer and city analysis
+- Return and cancellation analysis
+- Management reporting
+- Dashboarding
+- Client acceptance testing
+
+[View Project →](https://github.com/buketbalozsozen/northstar-sales-analysis)
+
+### Current Focus
+
+- SQL
+- Power BI
+- Business Intelligence
+- Data Analytics Portfolio Development
